@@ -17,4 +17,7 @@ In preperation for the completion of this project, I have enrolled in the follow
 
 ["Computation Structures 3: Computer Organization"](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)
 
-I will be using the content of these course to aid with the design and implememtation of the tools required to build the simulator, which will be designed and architected at the 'switch' level.  The simulator will be implemented in Common Lisp.
+I will be using the content of these course to aid with the design and implememtation of the tools required to build the simulator, which will be designed and architected at the 'switch' level.  The simulator and it's tools will be implemented in Common Lisp using ["LispWorks"](http://www.lispworks.com).  Portability to other Common Lisps will be attempted, but not guaranteed.
+
+--
+BusFactor1 Inc.
