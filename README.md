@@ -19,5 +19,10 @@ In preperation for the completion of this project, I have enrolled in the follow
 
 I will be using the content of these course to aid with the design and implememtation of the tools required to build the simulator, which will be designed and architected at the 'switch' level.  The simulator and it's tools will be implemented in Common Lisp using ["LispWorks"](http://www.lispworks.com).  Portability to other Common Lisps will be attempted, but not guaranteed.
 
+Running
+--
+
+To load and execute the simuilator from source, load the file "ipl.lisp" into your running lispworks.
+
 --
 BusFactor1 Inc.
